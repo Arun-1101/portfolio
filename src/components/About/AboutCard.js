@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+
 
 // I am an accomplished React Native and full-stack developer specializing in major e-commerce applications. With a knack for crafting seamless user experiences and a keen eye for backend intricacies, I thrive in building dynamic solutions that bridge technology and user needs.
 
