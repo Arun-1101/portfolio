@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://arundeveloper.netlify.app/" target="_blank">Arun Raja</a>
+  <a href="https://arunasdeveloper.netlify.app" target="_blank">Arun Raja</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/interface.png" />
